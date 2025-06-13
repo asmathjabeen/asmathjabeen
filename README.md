@@ -20,7 +20,7 @@ I'm currently deepening my skills in Python development and preparing for entry-
 A Streamlit-based app that lets users upload CSVs and create real-time charts using Matplotlib and Seaborn. Built as my final-year capstone project — I led the 4-member team and handled the entire codebase.
 
 > ✅ Designed, developed, and deployed solo  
-> 📰 Published in Nanotechnology Perceptions (2025)
+> 📰 Published in Nanotechnology Perceptions (Dec,2024)
 
 ---
 
