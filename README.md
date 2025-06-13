@@ -32,6 +32,9 @@ A command-line Python app to log, filter, and summarize personal expenses stored
 
 ---
 
+### [🎓 Student Management System – Java Console App](https://github.com/asmathjabeen/student-management-system-java)  
+Java-based CLI project to manage student records (add, update, search, delete). Covers file handling, user interaction, and OOP principles — built for entry-level Java, QA, or software engineer roles.
+
 ## 🧠 Current Goals
 
 - Mastering DSA with Python  
