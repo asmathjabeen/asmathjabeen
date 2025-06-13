@@ -14,20 +14,28 @@ I'm currently deepening my skills in Python development and preparing for entry-
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-### [📊 Interactive Chart Generator](https://github.com/asmathjabeen/Interactive-Chart-Generator-Using-Matplotlib-and-Seaborn)
+### [📊 Interactive Chart Generator](https://github.com/asmathjabeen/Interactive-Chart-Generator-Using-Matplotlib-and-Seaborn)  
 A Streamlit-based app that lets users upload CSVs and create real-time charts using Matplotlib and Seaborn. Built as my final-year capstone project — I led the 4-member team and handled the entire codebase.
 
 > ✅ Designed, developed, and deployed solo  
-> 📰 Published in Nanotechnology Perceptions (Dec,2024)
+> 📰 Published in Nanotechnology Perceptions (Dec, 2024)
+
+---
+
+### [💸 Personal Expense Tracker](https://github.com/asmathjabeen/expense-tracker-python)  
+A command-line Python app to log, filter, and summarize personal expenses stored in a CSV file. Includes category/date filters, summary breakdown, and error-safe formatting.
+
+> ✅ Built to demonstrate logic building and file handling  
+> 📂 Uses CLI, CSV, and Python standard libraries
 
 ---
 
 ## 🧠 Current Goals
 
 - Mastering DSA with Python  
-- Building a second project: **Personal Expense Tracker**  
+- Building a third project (TBD 💭)  
 - Preparing for software roles in Python Development / Engineering
 
 ---
@@ -38,6 +46,7 @@ A Streamlit-based app that lets users upload CSVs and create real-time charts us
 - 📧 asmath9696@gmail.com
 
 ---
+
 <!--
 ## 📈 GitHub Activity
 
