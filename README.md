@@ -38,11 +38,11 @@ A Streamlit-based app that lets users upload CSVs and create real-time charts us
 - 📧 asmath9696@gmail.com
 
 ---
-
+<!--
 ## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asmathjabeen&show_icons=true&theme=midnight-purple" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmathjabeen&layout=compact&theme=midnight-purple" width="350"/>
 </p>
-
+-->
